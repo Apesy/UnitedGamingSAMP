@@ -30,4 +30,4 @@ If you have an issue, please make an issue via the github issues button.
 
 ## Credits
 Seanny for creating the gamemode originally for DC-RP and for giving permission to open source it.
-Apesy for UG-RP and some minor edits.
+Apes for UG-RP and some minor edits.

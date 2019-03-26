@@ -1,0 +1,44 @@
+{
+	"user": "Apesy",
+	"repo": "UG-RP",
+	"entry": "gamemodes/UGRP.pwn",
+	"output": "gamemodes/UGRP.amx",
+	"local": true,
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"pawn-lang/YSI-Includes",
+		"Zeex/samp-plugin-crashdetect",
+		"samp-incognito/samp-streamer-plugin",
+		"pBlueG/SA-MP-MySQL",
+		"urShadow/Pawn.CMD",
+		"maddinat0r/sscanf",
+		"maddinat0r/samp-discord-connector",
+		"RogueDrifter/Anti_cheat_pack",
+		"Awsomedude/easyDialog",
+		"Southclaws/samp-plugin-mapandreas",
+		"Open-GTO/sa-mp-fixes"
+	],
+	"builds": [
+		{
+			"name": "main",
+			"includes": [
+				"legacy"
+			]
+		}
+	],
+	"runtime": {
+		"version": "0.3.DL",
+		"gamemodes": ["DCRP"],
+		"rcon_password": "CHANGE_ME_RCON",
+		"hostname": "United Gaming Roleplay",
+		"announce": true,
+		"maxplayers": 100,
+		"port": 7777,
+		"rcon": false,
+		"extra": {
+			"useartwork": "1",
+			"discord_bot_token": "CHANGE_ME_DISCORD"
+		}
+	}
+	
+}

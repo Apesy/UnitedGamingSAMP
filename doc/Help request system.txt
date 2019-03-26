@@ -1,0 +1,44 @@
+[center][img]https://dc-rp.com/image/logo-half.png[/img][/center]
+
+The help request system is a very important tool for community helpers to be able to be answer questions and perform their duties in-game.
+
+In this guide, I will explain how to use the help request system and how it works.
+
+The commands for the help request ("helpme") system are as follows:
+[list]
+[*]/helpme (/ask) [Message] - This is the command that is used by regular players to send requests to helpers.
+[*]/requests - List all active unhandled help requests.
+[*]/accepthelp (/ahm) [RequestID] - This command is used to accept a help request, meaning that you are going to assist the player.
+[*]/denyhelp (/dhm) [RequestID] - This command is used to deny/trash a help request meaning that it will not be handled.
+[*]/sta [RequestID] - This command is used to send a help request to server administrators, this is used in instances where a player asks for something that only server administrators can deal with.
+[*]/hmabuse [PlayerID] (read as "hm abuse") - This command is used to give the PlayerID a warning for abusing the helpme system. After so many strikes, the P,layerID will lose access to the /helpme system. At 5 strikes, they will need to post a ban appeal to regain access to /helpme.
+[/list]
+
+[b]Recieving Requests:[/b]
+Help Request come in the following format: [REQUEST: [b]420[/b]] John_Doe([b]69[/b]): [b]Message[/b]
+Note that the [b]bolded[/b] text can be different in-game, [b]420[/b] being the help request ID, [b]69[/b] being the ID of the player and the [b]Message[/b] being the message that the player has sent (i.e the actual help request).
+[img]https://i.imgur.com/mXbim2J.png[/img]
+
+[b]Accepting Requests:[/b]
+Accepting help requests means that it will count towards your monthly help request count, if you do accept a help request, you must actually assist the player.
+Accepting help requests sends a message to community helpers informing that you have accepted the help request (the light red text).
+Accepting help requests informs the requester that their help request has been accepted (the blue text).
+The text at the bottom (Light Red and White text) is the request that they have sent.
+[img]https://i.imgur.com/QKlYqlu.png[/img]
+
+[b]Disregarding Requests:[/b]
+Disregarding help requests means that it will be removed from the help request system, freeing up space for more help requests.
+Disregarding help requests sends a message to community helpers informing that you have disregarded the help request (the light red text).
+Disregarding help requests informs the requester that their help request has been disregarded (the blue text).
+[img]https://i.imgur.com/JT3nHl3.png[/img]
+
+[b]Sending Requests to Administrators:[/b]
+Sending help requests to helpers (hereinafter known as Transferring) means that helpers will deal with the help request instead, allowing administrators to deal with other tasks.
+Transferring help requests sends a message to community helpers informing that you have transferred the help request (the light red text).
+Transferring help requests informs the requester that their help request has been transferred (the blue text).
+Transferring help requests sends the help request as a /report, meaning it will be put into the admins report system.
+[img]https://i.imgur.com/fVJB3wN.png[/img]
+
+[b]Listing Requests:[/b]
+Use /requests to see all help requests that have neither been accepted or trashed.
+[img]https://i.imgur.com/CDEMzKe.png[/img]

@@ -1,0 +1,42 @@
+[center][img]https://dc-rp.com/image/logo-half.png[/img][/center]
+
+The report system is a very important tool for server administrators to be able to be made and aware of situations and thus be able to handle them.
+
+In this guide, I will explain how to use the report system and how it works.
+
+The commands for the report system are as follows:
+[list]
+[*]/report (/re) [Message] - This is the command that is used by regular players to send reports to administrators.
+[*]/reports - List all active unhandled reports.
+[*]/ar [ReportID] - This command is used to accept a report, meaning that you are going to handle it.
+[*]/dr [ReportID] - This command is used to deny/trash a report meaning that it will not be handled by administrators.
+[*]/sth [ReportID] - This command is used to send a report to community helpers, this is used in instances where a player asks for something that community helpers can easily deal with, allowing admins to deal with other tasks.
+[/list]
+
+[b]Recieving Reports:[/b]
+Reports come in the following format: [RID: [b]420[/b]] John_Doe([b]69[/b]) reported: [b]Message[/b]
+Note that the [b]bolded[/b] text can be different in-game, [b]420[/b] being the report ID, [b]69[/b] being the ID of the player and the [b]Message[/b] being the message that the player has sent (i.e the actual report).
+[img]https://i.imgur.com/szkSCuP.png[/img]
+
+[b]Accepting Reports:[/b]
+Accepting reports means that it will count towards your month report count, if you do accept a report, you must actually deal with it.
+Accepting reports sends a message to administrators informing that you have accepted the report (the orange text).
+Accepting reports informs the reporter that their report has been accepted (the green text).
+[img]https://i.imgur.com/dPKmImI.png[/img]
+
+[b]Disregarding Reports:[/b]
+Disregarding reports means that it will be removed from the report system, freeing up space for more reports.
+Disregarding reports sends a message to administrators informing that you have disregarded the report (the orange text).
+Disregarding reports informs the reporter that their report has been disregarded (the red text).
+[img]https://i.imgur.com/nyB7xO0.png[/img]
+
+[b]Sending Reports to Helpers:[/b]
+Sending reports to helpers (hereinafter known as Transferring) means that helpers will deal with the report instead, allowing administrators to deal with other tasks.
+Transferring reports sends a message to administrators informing that you have transferred the report (the orange text).
+Transferring reports informs the reporter that their report has been transferred (the green text).
+Transferring reports sends the report as a regular /helpme, appearing to helpers as a regular help request. (the blue text).
+[img]https://i.imgur.com/oK7VB4R.png[/img]
+
+[b]Listing reports:[/b]
+Use /reports to see all reports that have neither been accepted or trashed.
+[img]https://i.imgur.com/wYVnY3h.png[/img]

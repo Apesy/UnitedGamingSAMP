@@ -29,5 +29,7 @@ You must change mysql.cfg to match your local mysql settings.
 If you have an issue, please make an issue via the github issues button.
 
 ## Credits
-Seanny for creating the gamemode originally for DC-RP and for giving permission to open source it.
-Apes for UG-RP and some minor edits.
+Seanny for creating the gamemode originally for DC-RP and for giving permission to open source it.  
+Apes for UG-RP and some minor edits.  
+Hansrutger for some features.  
+Tyler for mapping.  
